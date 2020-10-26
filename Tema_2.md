@@ -34,7 +34,7 @@ En el caso de Rust, para crear un nuevo "modulo" hay que usar la herramienta car
 
 ```shell
 .
-└── Porra
+└── apuestas
     ├── Cargo.toml
     └── src
         └── lib.rs
